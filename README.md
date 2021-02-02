@@ -1,4 +1,4 @@
-## Star Wars Reddit Classification
+# Star Wars Reddit Classification
 by Adrian Chapman
 
 ### Problem Statement
