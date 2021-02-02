@@ -1,5 +1,3 @@
-# Project 3: Web APIs & NLP
-
 ## Star Wars Reddit Classification
 by Adrian Chapman
 
